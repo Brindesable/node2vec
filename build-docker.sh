@@ -1,0 +1,1 @@
+docker build -t node2vec .
